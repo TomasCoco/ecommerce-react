@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav{
+    background-color: bisque !important;
+}
+
+
+li{
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+li:hover{
+    color: red;
+}
